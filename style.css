@@ -1,9 +1,27 @@
 .header {
   display: flex;
   background-color: rgb(50, 167, 145);
+  justify-content: space-around;  
 }
 
 .trybewarts-header-logo {
   display: flex;
-  justify-content: flex-start;
+}
+
+.trybewarts-login {
+  display: flex;
+  align-items: center;
+}
+
+.trybewarts-login #email {
+  margin-right: 10px;
+}
+
+.trybewarts-login #password {
+  margin-right: 10px;
+}
+
+.header #trybewarts-header-title {
+  display: flex;
+  align-items: center;
 }

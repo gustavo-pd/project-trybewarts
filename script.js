@@ -13,7 +13,7 @@ button.addEventListener('click', () => {
 });
 
 buttonsbt.disabled = true;
-agree.addEventListener ('click', function() {
+agree.addEventListener('click', () => {
   if (agree.checked === true) {
     buttonsbt.disabled = false;
   } else if (agree.checked === false) {

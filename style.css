@@ -41,3 +41,7 @@ main {
 #trybewarts-forms-logo {
   height: 500px;
 }
+
+.textarea {
+  display: flex;
+}

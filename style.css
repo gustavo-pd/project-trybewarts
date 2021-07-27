@@ -47,7 +47,7 @@ main {
 }
 
 #submit-btn {
-  background-color:blueviolet;
+  background-color: blueviolet;
   width: 340px;
   justify-content: center;
   color: antiquewhite;
@@ -57,8 +57,8 @@ footer {
   position: fixed;
   width: 100%;
   text-align: center;
-  background-color:darkslategray;
-  color:white;
+  background-color: darkslategray;
+  color: white;
   height: 30px;
   bottom: 0%;
 }
